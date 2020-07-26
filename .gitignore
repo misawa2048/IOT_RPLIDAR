@@ -2,13 +2,13 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Mm]emoryCaptures/
+/Unity_DFROBOT_LiDAR_Sample/[Ll]ibrary/
+/Unity_DFROBOT_LiDAR_Sample/[Tt]emp/
+/Unity_DFROBOT_LiDAR_Sample/[Oo]bj/
+/Unity_DFROBOT_LiDAR_Sample/[Bb]uild/
+/Unity_DFROBOT_LiDAR_Sample/[Bb]uilds/
+/Unity_DFROBOT_LiDAR_Sample/[Ll]ogs/
+/Unity_DFROBOT_LiDAR_Sample/[Mm]emoryCaptures/
 
 # Never ignore Asset meta data
 !/[Aa]ssets/**/*.meta
@@ -57,4 +57,12 @@ sysinfo.txt
 
 # Crashlytics generated file
 crashlytics-build.properties
+
+#
+# other
+#
+.vs
+*.sdf
+sdk/obj
+**/ipch
 

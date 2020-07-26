@@ -1,0 +1,28 @@
+﻿  net_serial.cpp
+c:\d_dr\prog\device\lidar\rplidar_sdk-release-v1.11.0\sdk\sdk\include\rplidar_protocol.h(59): warning C4200: 非標準の拡張機能が使用されています: 構造体または共用体中にサイズが 0 の配列があります。
+  c:\d_dr\prog\device\lidar\rplidar_sdk-release-v1.11.0\sdk\sdk\include\rplidar_protocol.h(59): note: このメンバーは、既定のコンストラクターまたはコピー/移動代入演算子により無視されます
+c:\d_dr\prog\device\lidar\rplidar_sdk-release-v1.11.0\sdk\sdk\include\rplidar_cmd.h(256): warning C4200: 非標準の拡張機能が使用されています: 構造体または共用体中にサイズが 0 の配列があります。
+  c:\d_dr\prog\device\lidar\rplidar_sdk-release-v1.11.0\sdk\sdk\include\rplidar_cmd.h(256): note: このメンバーは、既定のコンストラクターまたはコピー/移動代入演算子により無視されます
+  net_socket.cpp
+c:\d_dr\prog\device\lidar\rplidar_sdk-release-v1.11.0\sdk\sdk\include\rplidar_protocol.h(59): warning C4200: 非標準の拡張機能が使用されています: 構造体または共用体中にサイズが 0 の配列があります。
+  c:\d_dr\prog\device\lidar\rplidar_sdk-release-v1.11.0\sdk\sdk\include\rplidar_protocol.h(59): note: このメンバーは、既定のコンストラクターまたはコピー/移動代入演算子により無視されます
+c:\d_dr\prog\device\lidar\rplidar_sdk-release-v1.11.0\sdk\sdk\include\rplidar_cmd.h(256): warning C4200: 非標準の拡張機能が使用されています: 構造体または共用体中にサイズが 0 の配列があります。
+  c:\d_dr\prog\device\lidar\rplidar_sdk-release-v1.11.0\sdk\sdk\include\rplidar_cmd.h(256): note: このメンバーは、既定のコンストラクターまたはコピー/移動代入演算子により無視されます
+  timer.cpp
+c:\d_dr\prog\device\lidar\rplidar_sdk-release-v1.11.0\sdk\sdk\include\rplidar_protocol.h(59): warning C4200: 非標準の拡張機能が使用されています: 構造体または共用体中にサイズが 0 の配列があります。
+  c:\d_dr\prog\device\lidar\rplidar_sdk-release-v1.11.0\sdk\sdk\include\rplidar_protocol.h(59): note: このメンバーは、既定のコンストラクターまたはコピー/移動代入演算子により無視されます
+c:\d_dr\prog\device\lidar\rplidar_sdk-release-v1.11.0\sdk\sdk\include\rplidar_cmd.h(256): warning C4200: 非標準の拡張機能が使用されています: 構造体または共用体中にサイズが 0 の配列があります。
+  c:\d_dr\prog\device\lidar\rplidar_sdk-release-v1.11.0\sdk\sdk\include\rplidar_cmd.h(256): note: このメンバーは、既定のコンストラクターまたはコピー/移動代入演算子により無視されます
+  thread.cpp
+c:\d_dr\prog\device\lidar\rplidar_sdk-release-v1.11.0\sdk\sdk\include\rplidar_protocol.h(59): warning C4200: 非標準の拡張機能が使用されています: 構造体または共用体中にサイズが 0 の配列があります。
+  c:\d_dr\prog\device\lidar\rplidar_sdk-release-v1.11.0\sdk\sdk\include\rplidar_protocol.h(59): note: このメンバーは、既定のコンストラクターまたはコピー/移動代入演算子により無視されます
+c:\d_dr\prog\device\lidar\rplidar_sdk-release-v1.11.0\sdk\sdk\include\rplidar_cmd.h(256): warning C4200: 非標準の拡張機能が使用されています: 構造体または共用体中にサイズが 0 の配列があります。
+  c:\d_dr\prog\device\lidar\rplidar_sdk-release-v1.11.0\sdk\sdk\include\rplidar_cmd.h(256): note: このメンバーは、既定のコンストラクターまたはコピー/移動代入演算子により無視されます
+  rplidar_driver.cpp
+c:\d_dr\prog\device\lidar\rplidar_sdk-release-v1.11.0\sdk\sdk\include\rplidar_protocol.h(59): warning C4200: 非標準の拡張機能が使用されています: 構造体または共用体中にサイズが 0 の配列があります。
+  c:\d_dr\prog\device\lidar\rplidar_sdk-release-v1.11.0\sdk\sdk\include\rplidar_protocol.h(59): note: このメンバーは、既定のコンストラクターまたはコピー/移動代入演算子により無視されます
+c:\d_dr\prog\device\lidar\rplidar_sdk-release-v1.11.0\sdk\sdk\include\rplidar_cmd.h(256): warning C4200: 非標準の拡張機能が使用されています: 構造体または共用体中にサイズが 0 の配列があります。
+  c:\d_dr\prog\device\lidar\rplidar_sdk-release-v1.11.0\sdk\sdk\include\rplidar_cmd.h(256): note: このメンバーは、既定のコンストラクターまたはコピー/移動代入演算子により無視されます
+c:\d_dr\prog\device\lidar\rplidar_sdk-release-v1.11.0\sdk\sdk\src\rplidar_driver.cpp(2014): warning C4267: '初期化中': 'size_t' から '_u8' に変換しました。データが失われているかもしれません。
+  コードを生成中...
+  rplidar_driver.vcxproj -> C:\d_dr\prog\Device\LiDAR\rplidar_sdk-release-v1.11.0\sdk\workspaces\vc10\\..\..\output\win32\Debug\rplidar_driver.lib
